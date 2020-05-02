@@ -2,7 +2,7 @@
 This repository has all the code and report for my Udacity Data Scientist Nanodegree Capstone project.
 
 # Starbucks Capstone Challenge: Using Starbucks app user data to predict effective offers
-1. Installations
+1. Installations-
 This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
 
 pandas
@@ -19,7 +19,7 @@ time
 sklearn.model_selection (GridSearchCV)
 matplotlib
 
-2. Project Motivation
+2. Project Motivation-
 This project is the Capstone project of my Data Scientist nanodegree with Udacity. As students in the nanodegree, we have the option to take part in the Starbucks Capstone Challenge. For the challenge, Udacity provided simulated data that mimics customer behavior on the Starbucks rewards mobile app.
 
 In this project, I use the data to answer 2 business questions:
@@ -34,8 +34,8 @@ For Question 1, the feature importance given by all 3 models were that the tenur
 
 For Question 2,my decision to use 3 separate models to predict the effectiveness of each offer type ended up with good accuracy for the 2 of the models (82.83% for BOGO and 87.35% for discount), while slightly less accurate performance for another informational offers (75.3%). However, I would regard 75% as acceptable in a business setting, as for informational offers, there is no cost involved to inform users of a product. Meanwhile, an 80% and above accuracy in a business setting would be acceptable to show offers to people, even if the model misclassifies a few, the overall revenue increase might justify the few mistakes.
 
-3. File Descriptions
+3. File Descriptions-
 This repo contains 4 files. The report of my project is called 'Starbucks Capstone Challenge - Using Starbucks app user data to predict effective offers.ipynb'. The data used in the project is in the files portfolio.json, profile.json and transcript.json.
 
-4. Licensing, Authors, Acknowledgements, etc.
+4. Licensing, Authors, Acknowledgements, etc.-
 Data for coding project was provided by Udacity.
